@@ -1,0 +1,3 @@
+/Users/roeibiton/CLionProjects/TM2Ex1/cmake-build-debug/CMakeFiles/TM2Ex1.dir
+/Users/roeibiton/CLionProjects/TM2Ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/roeibiton/CLionProjects/TM2Ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
